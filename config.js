@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Thư Tỏ Tình",
-    introTitle: 'Tên ai thì chưa biết',
+    titleWeb: "Thư Tuyên Chiến",
+    introTitle: 'Chị Trang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: '',
+    reply: 'yêu thì yêu ko yêu cũng phải yêu <33333333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Hôm nào qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
