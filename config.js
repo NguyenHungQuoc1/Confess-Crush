@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Thư Tuyên Chiến",
-    introTitle: 'Chị Trang',
+    titleWeb: "The Letter",
+    introTitle: 'LyNa Nguyen',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
