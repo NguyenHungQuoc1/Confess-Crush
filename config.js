@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "The Letter",
-    introTitle: '<3 <3 <3',
+    introTitle: 'LINH',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
